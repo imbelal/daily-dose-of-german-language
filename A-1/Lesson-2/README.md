@@ -80,5 +80,25 @@
     <td>Ich weiß nicht.</td>
     <td>I don't know.</td>
   </tr>
+  
+  <tr>
+    <td>Keine Ahnung!</td>
+    <td>No idea!</td>
+  </tr>
+  
+  <tr>
+    <td>Kein Problem!</td>
+    <td>No problem!</td>
+  </tr>
+  
+  <tr>
+    <td>Einen Moment, Bitte!</td>
+    <td>Just a moment, please!</td>
+  </tr>
+  
+  <tr>
+    <td>Ja, Nein, Vielliecht</td>
+    <td>Yes, No, May be</td>
+  </tr>
  
 </table>
