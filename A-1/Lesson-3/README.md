@@ -8,11 +8,15 @@
     <th>German</th>
     <th>Number</th>
     <th>German</th>
+    <th>Number</th>
+    <th>German</th>
   </tr>
   
   <tr>
     <td>0</td>
     <td>null</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -26,6 +30,8 @@
     <td>einundzwanzig</td>
     <td>41</td>
     <td>einundvierzig</td>
+    <td>61</td>
+    <td>einundsechzig</td>
   </tr>
     
   <tr>
@@ -35,6 +41,8 @@
     <td>zweiundzwanzig</td>
     <td>42</td>
     <td>zweiundvierzig</td>
+    <td>62</td>
+    <td>zweiundsechzig</td>
   </tr>
     
   <tr>
@@ -44,6 +52,8 @@
     <td>drieundzwanzig</td>
     <td>43</td>
     <td>drieundvierzig</td>
+    <td>63</td>
+    <td>drieundsechzig</td>
   </tr>
     
   <tr>
@@ -53,6 +63,8 @@
     <td>vierundzwanzig</td>
     <td>44</td>
     <td>vierundvierzig</td>
+    <td>64</td>
+    <td>vierundsechzig</td>
   </tr>
     
   <tr>
@@ -62,6 +74,8 @@
     <td>fünfundzwanzig</td>
     <td>45</td>
     <td>fünfundvierzig</td>
+    <td>65</td>
+    <td>fünfundsechzig</td>
   </tr>
     
   <tr>
@@ -71,6 +85,8 @@
     <td>sechsundzwanzig</td>
     <td>46</td>
     <td>sechsundvierzig</td>
+    <td>66</td>
+    <td>sechsundsechzig</td>
   </tr>
     
   <tr>
@@ -80,6 +96,8 @@
     <td>seibenunzwanzig</td>
     <td>47</td>
     <td>seibenundvierzig</td>
+    <td>67</td>
+    <td>seibenundsechzig</td>
   </tr>
     
   <tr>
@@ -89,6 +107,8 @@
     <td>achtundzwanzig</td>
     <td>48</td>
     <td>achtundvierzig</td>
+    <td>68</td>
+    <td>achtundsechzig</td>
   </tr>
     
   <tr>
@@ -98,6 +118,8 @@
     <td>neunundzwanzig</td>
     <td>49</td>
     <td>neunundvierzig</td>
+    <td>69</td>
+    <td>neunundsechzig</td>
   </tr>
     
   <tr>
@@ -107,6 +129,8 @@
     <td>dreißig</td>
     <td>50</td>
     <td>fünfzig</td>
+    <td>70</td>
+    <td>seibzig</td>
   </tr>
     
   <tr>
@@ -116,6 +140,8 @@
     <td>einunddreißig</td>
     <td>51</td>
     <td>einundfünfzig</td>
+    <td>71</td>
+    <td>einundseibzig</td>
   </tr>
     
   <tr>
@@ -125,6 +151,8 @@
     <td>zweiunddreißig</td>
     <td>52</td>
     <td>zweiundfünfzig</td>
+    <td>72</td>
+    <td>zweiundseibzig</td>
   </tr>
     
   <tr>
@@ -134,6 +162,8 @@
     <td>drieunddreißig</td>
     <td>53</td>
     <td>drieundfünfzig</td>
+    <td>73</td>
+    <td>drieundseibzig</td>
   </tr>
     
   <tr>
@@ -143,6 +173,8 @@
     <td>vierunddreißig</td>
     <td>54</td>
     <td>vierundfünfzig</td>
+    <td>74</td>
+    <td>vierundseibzig</td>
   </tr>
     
   <tr>
@@ -152,6 +184,8 @@
     <td>fünfunddreißig</td>
     <td>55</td>
     <td>fünfundfünfzig</td>
+    <td>75</td>
+    <td>fünfundseibzig</td>
   </tr>
     
   <tr>
@@ -161,6 +195,8 @@
     <td>sechsunddreißig</td>
     <td>56</td>
     <td>sechsundfünfzig</td>
+    <td>76</td>
+    <td>sechsundseibzig</td>
   </tr>
     
   <tr>
@@ -170,6 +206,8 @@
     <td>seibenunddreißig</td>
     <td>57</td>
     <td>seibenundfünfzig</td>
+    <td>77</td>
+    <td>seibenundseibzig</td>
   </tr>
     
   <tr>
@@ -179,6 +217,8 @@
     <td>achtunddreißig</td>
     <td>58</td>
     <td>achtundfünfzig</td>
+    <td>78</td>
+    <td>achtundseibzig</td>
   </tr>
     
   <tr>
@@ -188,6 +228,8 @@
     <td>neununddreißig</td>
     <td>59</td>
     <td>neunundfünfzig</td>
+    <td>79</td>
+    <td>neunundseibzig</td>
   </tr>
     
   <tr>
@@ -197,6 +239,8 @@
     <td>vierzig</td>
     <td>60</td>
     <td>sechzig</td>
+    <td>80</td>
+    <td>achtzig</td>
   </tr>
   
 </table>
