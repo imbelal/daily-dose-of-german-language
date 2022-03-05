@@ -1,0 +1,82 @@
+# Alphabets | das Alphabet
+
+
+
+<table>
+   <tbody>
+      <tr>
+         <td>A</td>
+         <td>B</td>
+         <td>C</td>
+         <td>D</td>
+         <td>E</td>
+         <td>F</td>
+         <td>G</td>
+         <td>H</td>
+         <td>I</td>
+         <td>J</td>
+      </tr>
+      <tr>
+         <td>aa</td>
+         <td>bay</td>
+         <td>tsay</td>
+         <td>day</td>
+         <td>ey</td>
+         <td>eff</td>
+         <td>gay</td>
+         <td>ha</td>
+         <td>e</td>
+         <td>yott</td>
+      </tr>
+      <tr>
+         <td>K</td>
+         <td>L</td>
+         <td>M</td>
+         <td>N</td>
+         <td>O</td>
+         <td>P</td>
+         <td>Q</td>
+         <td>R</td>
+         <td>S</td>
+         <td>T</td>
+      </tr>
+      <tr>
+         <td>ka</td>
+         <td>ell</td>
+         <td>emm</td>
+         <td>en</td>
+         <td>o</td>
+         <td>pay</td>
+         <td>ku</td>
+         <td>err</td>
+         <td>ess</td>
+         <td>tay</td>
+      </tr>
+      <tr>
+         <td>U</td>
+         <td>V</td>
+         <td>W</td>
+         <td>X</td>
+         <td>Y</td>
+         <td>Z</td>
+         <td>Ä</td>
+         <td>Ö</td>
+         <td>Ü</td>
+         <td>ß</td>
+      </tr>
+      <tr>
+         <td>uu</td>
+         <td>fau</td>
+         <td>way</td>
+         <td>iks</td>
+         <td>upsilon</td>
+         <td>tset</td>
+         <td>eyyy</td>
+         <td>eyo</td>
+         <td>eyu</td>
+         <td>ess-tset</td>
+      </tr>
+   </tbody>
+</table>
+
+
