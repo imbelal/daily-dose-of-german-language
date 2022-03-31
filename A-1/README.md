@@ -6,3 +6,4 @@
   - [Lesson 05 - Introducing yourself](https://github.com/imbelal/daily-dose-of-german-language/tree/main/A-1/Lesson-5)
   - [Lesson 06 - Getting to know someone](https://github.com/imbelal/daily-dose-of-german-language/tree/main/A-1/Lesson-6)
   - [Lesson 07 - How are you?](https://github.com/imbelal/daily-dose-of-german-language/tree/main/A-1/Lesson-7)
+  - [Lesson 08 - Senetence Structure](https://github.com/imbelal/daily-dose-of-german-language/tree/main/A-1/Lesson-8)
