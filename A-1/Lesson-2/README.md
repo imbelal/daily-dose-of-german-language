@@ -23,7 +23,7 @@
 
   <tr>
     <td>Bitte!</td>
-    <td>Pleae! (Multiple meaning)</td>
+    <td>Please! (Multiple meaning)</td>
   </tr>
  
    <tr>
